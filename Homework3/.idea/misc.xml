@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/circular_countdown_timer.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/custom_checkbox_selector.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_circle_checkbox_outline_checked.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_circle_checkbox_unchecked.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_cloud.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_greater_cloud.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_right_arrow.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_splash_bottom_logo.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/ic_splash_logo.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/kelime_baslat.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/rounded_bordered_card_shape.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/rounded_cross_sign_shape.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/rounded_purple_button_shape.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/rounded_white_button_shape.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable-v24/word_test_background_gradient.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar1.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar2.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar3.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar4.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar5.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar6.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar7.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar8.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar9.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/avatar_gradient_background.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/battle_bottom_image.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/battle_gradient_background.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/battle_level_image.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/battle_point_image.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/circular_button.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/deck_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/home_fragment_background_gradient.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_avatarbg.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_battle_active.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_battle_bottom_image.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_battle_top_image.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_circular_rectangle_11.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_dark_yellow_crown.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_dark_yellow_crown_holder.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_ellipse_1.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_ellipse_2.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_ellipse_4.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_ellipse_5.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_ellipse_9.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_empty.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_empty_state_logo.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_facebook_logo.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_green_crown.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_home_lower_group_24.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_home_upper_group_24.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_instagram_logo.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_linkedin_logo.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_log_out.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_profile_logo.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_star.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_success_outline.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_temporary_edit_icon.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/ic_twitter_logo.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/profile_circle_background.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/profile_fragment_background_gradient.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/rounded_bottom_nav.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/rounded_bottom_nav_shape.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/rounded_pink_button_shape.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/rounded_shape.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/rounded_shape_2.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/rounded_whats_decky_corner.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/drawable/sf_pro_display_bold.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/font/sfprodisplay_bold.xml" value="0.20185185185185187" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/layout/activity_main.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/layout/avatar.xml" value="0.178125" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/layout/fragment_deck.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/layout/fragment_home.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/layout/fragment_profile.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/layout/fragment_splash.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/layout/select_avatar.xml" value="0.1640625" />
+        <entry key="..\:/Users/batu/Desktop/Homework3/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
